@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "breed",
+        "value": "mixed"
+      },
+      {
+        "trait_type": "derpiness",
+        "value": "medium"
+      }
+    ],
+    "description": "what a pup",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYfJYLSB8Ymw5Jvu8Rc86H1StyHbtvoUn2L6LX1Uxu4Cn",
+    "name": "pip on the floor"
+  }
+
